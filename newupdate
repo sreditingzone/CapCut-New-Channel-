@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 23500001,
+    "updateUrl": "https://t.me/srmodsapp",
+    "title": "Update Required v23.5.0 💎",
+    "description": "We have released a brand new update for CapCut with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2030-12-31",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
